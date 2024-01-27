@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmatrixFunctions.a CMakeFiles/matrixFunctions.dir/MatrixFunctions.cpp.o
+/usr/bin/ranlib libmatrixFunctions.a

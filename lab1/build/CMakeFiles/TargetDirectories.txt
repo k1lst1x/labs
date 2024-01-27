@@ -1,0 +1,4 @@
+/home/k1lst1x/Документы/cpp/lab1/lab1f/build/CMakeFiles/matrixFunctions.dir
+/home/k1lst1x/Документы/cpp/lab1/lab1f/build/CMakeFiles/main.dir
+/home/k1lst1x/Документы/cpp/lab1/lab1f/build/CMakeFiles/edit_cache.dir
+/home/k1lst1x/Документы/cpp/lab1/lab1f/build/CMakeFiles/rebuild_cache.dir

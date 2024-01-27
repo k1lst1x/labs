@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra CMakeFiles/main.dir/lab1.cpp.o -o main  libmatrixFunctions.a 
